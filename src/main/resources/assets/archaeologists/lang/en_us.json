@@ -1,0 +1,14 @@
+{
+  "item.archaeologists.fireshard": "Fire Shard",
+  "item.archaeologists.plantshard": "Plant Shard",
+  "item.archaeologists.splashshard": "Splash Shard",
+  "item.archaeologists.detectorshard": "Detector Shard",
+  "item.archaeologists.radomresourceshard": "Random Resourse Shard",
+  "item.archaeologists.largebrush": "Large Brush",
+  "item.archaeologists.mediumbrush": "Medium Brush",
+  "item.archaeologists.minibrush": "Mini Brush",
+  "item.archaeologists.partofnote": "Part of Note",
+  "item.archaeologists.metaldetector": "Metal Detector",
+  "item.archaeologists.metaldetector.no_valuables": "§4§lNothing found",
+  "item.archaeologists.note": "Note"
+}
